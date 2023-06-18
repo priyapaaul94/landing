@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(212, 135, 107);
+    background: url(images/1550035536_wedding_good_30.webp);
+}
+p{
+    color: rgb(42, 5, 129);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+
+}
+div{
+    text-align: center;
+    color: #E56B6F;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(238, 18, 120);
+}
+h2{
+    text-align: center;
+    color: #B56576;
+    
+}
+button{
+    text-align: center;
+    background-color: rgb(110, 231, 110);
+}
+form{
+    margin: 250px; auto;
+    width: 350px;
+    background-color:rgba(0,0,0,.5);
+    padding: 20px;
+}
+.textlabel{
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+}
